@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🕺
 
 <!--
 **michellehewson/michellehewson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My name is Michelle Hewson, I earned a B.S. in Mathematics from Western Carolina University and I am currently pursuing a M.S. in Data Science at Harvard University. I currently work as an Operations Research Analyst for the Air Force Special Operations Command, and I am interested in leveraging mathematical analysis to empower data-driven decision-making. 
+
+Feel free to reach out to me at michellelhewson@gmail.com / michellehewson@g.harvard.edu / https://www.linkedin.com/in/michellehewson 😄
